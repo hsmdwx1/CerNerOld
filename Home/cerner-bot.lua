@@ -224,7 +224,7 @@ function create_config( )
 "leave",
 	"msg_checks"
     },
-    sudo_users = {292596590},--Sudo users    
+    sudo_users = {312600226,317576202},--Sudo users    
    moderation = {data = 'data/moderation.json'},
    about_text = [[ By CerNer Team channel Id : @CerNerCH]],
     help_text_realm = [[
